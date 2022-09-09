@@ -1,0 +1,9 @@
+{
+    "name": "com.unity.template.pico_vr_unity",
+    "displayName": "pico_vr_unity",
+    "version": "0.0.1",
+    "type": "template",
+    "unity": "2021.3",
+    "description": "Use this template for AddAttachment project.",
+    "dependencies": {}
+    }
